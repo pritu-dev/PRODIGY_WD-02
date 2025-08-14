@@ -1,0 +1,87 @@
+                          /* <!-- Letter Counter... --> */
+/* body{
+    margin: 0;
+    padding: 0;
+    background-color: black;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    flex-direction: column;
+}
+
+input{
+    padding: 15px 40px;
+    border-radius: 20px;
+    
+
+}
+p{
+    color: white;
+    font-size: 20px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+     */
+                
+         /* <!-- + - opreartion --> */
+/* body{
+     padding: 0;
+     display: flex;
+     justify-content: center;
+     align-items: center;
+     height: 100vh;
+     background-color: black;
+     color:white
+}
+
+.container{
+     border: 5px solid white;
+     color: white;
+     padding: 30px 6rem;
+     border-radius: 3rem;
+     flex-direction: column;
+     display: flex;
+     justify-content: center;
+     align-items: center;
+   
+}
+.counter{
+    font-size: 6rem;
+    font-weight: bold;
+}
+.minus{
+    font-size: 3rem;
+    font-weight: bold;
+
+}
+.add{
+    font-size: 3rem;
+    font-weight: bold;
+} */
+           
+           /* swaping...
+body{
+    background-color: black;
+    color:white;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.container{
+ 
+
+}
+.container span{
+      margin-right:4rem;
+      background-color:green;
+      padding: 6px;
+      border-radius: 5px;
+      font-size: 2rem;
+}
+ 
+  */
+  
+   
